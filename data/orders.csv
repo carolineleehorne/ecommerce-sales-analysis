@@ -1,0 +1,61 @@
+order_id,customer_id,order_date,product,category,unit_price,quantity,region,status
+1001,C201,2023-01-03,Wireless Mouse,Electronics,29.99,2,West,Completed
+1002,C145,2023-01-05,Standing Desk,Furniture,349.00,1,East,Completed
+1003,C312,2023-01-06,USB-C Hub,Electronics,49.99,3,Central,Completed
+1004,C201,2023-01-09,Laptop Stand,Electronics,79.99,1,West,Completed
+1005,C089,2023-01-10,Office Chair,Furniture,289.00,2,South,Completed
+1006,C445,2023-01-12,Mechanical Keyboard,Electronics,119.99,1,East,Completed
+1007,C312,2023-01-15,Desk Lamp,Office Supplies,34.99,2,Central,Completed
+1008,C567,2023-01-18,Monitor 27in,Electronics,399.00,1,West,Completed
+1009,C089,2023-01-20,Notebook Set,Office Supplies,14.99,5,South,Completed
+1010,C201,2023-01-22,Webcam HD,Electronics,89.99,1,West,Completed
+1011,C678,2023-02-01,Standing Desk,Furniture,349.00,1,East,Completed
+1012,C145,2023-02-03,Wireless Mouse,Electronics,29.99,1,East,Completed
+1013,C789,2023-02-05,USB-C Hub,Electronics,49.99,2,West,Completed
+1014,C312,2023-02-08,Ergonomic Chair,Furniture,399.00,1,Central,Completed
+1015,C890,2023-02-10,Laptop Stand,Electronics,79.99,2,South,Completed
+1016,C445,2023-02-14,Blue Light Glasses,Office Supplies,24.99,3,East,Completed
+1017,C567,2023-02-17,Mechanical Keyboard,Electronics,119.99,2,West,Completed
+1018,C678,2023-02-20,Desk Organizer,Office Supplies,19.99,4,East,Completed
+1019,C089,2023-02-22,Monitor 27in,Electronics,399.00,1,South,Completed
+1020,C901,2023-02-25,Wireless Headphones,Electronics,149.99,1,Central,Completed
+1021,C201,2023-03-02,Ergonomic Chair,Furniture,399.00,1,West,Completed
+1022,C789,2023-03-05,Webcam HD,Electronics,89.99,2,West,Completed
+1023,C312,2023-03-08,Notebook Set,Office Supplies,14.99,10,Central,Completed
+1024,C567,2023-03-10,Standing Desk,Furniture,349.00,2,West,Completed
+1025,C890,2023-03-12,USB-C Hub,Electronics,49.99,1,South,Completed
+1026,C901,2023-03-15,Wireless Mouse,Electronics,29.99,4,Central,Completed
+1027,C445,2023-03-18,Monitor 27in,Electronics,399.00,1,East,Completed
+1028,C145,2023-03-20,Desk Lamp,Office Supplies,34.99,3,East,Completed
+1029,C678,2023-03-24,Laptop Stand,Electronics,79.99,2,East,Completed
+1030,C312,2023-03-28,Wireless Headphones,Electronics,149.99,1,Central,Completed
+1031,C567,2023-04-03,Ergonomic Chair,Furniture,399.00,1,West,Completed
+1032,C201,2023-04-06,USB-C Hub,Electronics,49.99,3,West,Completed
+1033,C089,2023-04-09,Standing Desk,Furniture,349.00,1,South,Completed
+1034,C901,2023-04-11,Mechanical Keyboard,Electronics,119.99,1,Central,Completed
+1035,C789,2023-04-14,Desk Organizer,Office Supplies,19.99,2,West,Completed
+1036,C445,2023-04-17,Wireless Headphones,Electronics,149.99,2,East,Completed
+1037,C890,2023-04-20,Monitor 27in,Electronics,399.00,1,South,Completed
+1038,C678,2023-04-23,Notebook Set,Office Supplies,14.99,6,East,Completed
+1039,C312,2023-04-25,Webcam HD,Electronics,89.99,1,Central,Completed
+1040,C145,2023-04-28,Wireless Mouse,Electronics,29.99,3,East,Completed
+1041,C567,2023-05-02,Standing Desk,Furniture,349.00,1,West,Completed
+1042,C201,2023-05-05,Laptop Stand,Electronics,79.99,2,West,Completed
+1043,C901,2023-05-08,Blue Light Glasses,Office Supplies,24.99,4,Central,Completed
+1044,C089,2023-05-11,Ergonomic Chair,Furniture,399.00,2,South,Completed
+1045,C312,2023-05-14,USB-C Hub,Electronics,49.99,2,Central,Completed
+1046,C678,2023-05-17,Mechanical Keyboard,Electronics,119.99,1,East,Completed
+1047,C789,2023-05-20,Monitor 27in,Electronics,399.00,1,West,Completed
+1048,C445,2023-05-23,Wireless Mouse,Electronics,29.99,5,East,Completed
+1049,C890,2023-05-26,Wireless Headphones,Electronics,149.99,1,South,Completed
+1050,C145,2023-05-29,Desk Lamp,Office Supplies,34.99,2,East,Completed
+1051,C201,2023-06-02,Monitor 27in,Electronics,399.00,2,West,Completed
+1052,C312,2023-06-05,Standing Desk,Furniture,349.00,1,Central,Completed
+1053,C567,2023-06-08,Wireless Headphones,Electronics,149.99,2,West,Completed
+1054,C089,2023-06-11,Notebook Set,Office Supplies,14.99,8,South,Completed
+1055,C901,2023-06-14,USB-C Hub,Electronics,49.99,3,Central,Completed
+1056,C678,2023-06-17,Ergonomic Chair,Furniture,399.00,1,East,Completed
+1057,C789,2023-06-20,Webcam HD,Electronics,89.99,2,West,Completed
+1058,C445,2023-06-23,Laptop Stand,Electronics,79.99,3,East,Completed
+1059,C890,2023-06-25,Mechanical Keyboard,Electronics,119.99,1,South,Completed
+1060,C145,2023-06-28,Wireless Mouse,Electronics,29.99,2,East,Completed
