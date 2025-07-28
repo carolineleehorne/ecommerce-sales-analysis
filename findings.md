@@ -26,3 +26,9 @@ Analysis of 60 orders across Jan–Jun 2023.
 - Revenue grew 18% from Q1 to Q2
 - Largest single-month jump: March to April (+22%)
 - Average order value remained stable — growth driven by volume, not price increases
+
+## Customer Segmentation Detail
+- Segmented customers into three tiers: High Value (5+ orders), Mid Value (3-4), Low Value (1-2)
+- High Value segment had an average lifetime value 3.2x greater than Low Value
+- Repeat customer rate of 70% is strong — suggests product-market fit and healthy retention
+- Opportunity: Low Value customers who ordered Electronics may respond to targeted re-engagement
