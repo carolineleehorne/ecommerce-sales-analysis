@@ -53,3 +53,7 @@ All queries are in `queries/analysis.sql` and are written in PostgreSQL syntax.
 1. Create a `orders` table in your PostgreSQL database
 2. Import `data/orders.csv`
 3. Run queries from `queries/analysis.sql` in order
+
+## Technical Notes
+
+The month-over-month growth query uses a window function (`LAG`) to calculate the percentage change between periods without requiring a self-join. This approach is more readable and performant at scale. The revenue analysis queries are split across two files — `analysis.sql` for core metrics and `revenue_queries.sql` for extended revenue breakdowns.
